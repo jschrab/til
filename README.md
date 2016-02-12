@@ -11,6 +11,7 @@ Things I've Learned
 * [MacOS X](#mac)
 * [Magento](#magento)
 * [Ubuntu](#ubuntu)
+* [SSH](#ssh)
 
 ---
 
@@ -21,3 +22,11 @@ Things I've Learned
 ### MacOS X
 ### Magento
 ### Ubuntu
+### SSH
+- [How to Extract a Public Key from a Private Key](ssh/how-to-extract-public-key.md)
+
+## About
+
+I shamelessly stole this idea from
+[thoughtbot/til](https://github.com/thoughtbot/til) and
+[jbranchaud/til](https://github.com/jbranchaud/til)
