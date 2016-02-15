@@ -17,6 +17,7 @@ Things I've Learned
 
 ### Devops
 ### Drupal
+-[Field Collections - Update older betas](drupal/field-collections-update-older-betas.md)
 ### Git
 ### JavaScript
 ### MacOS X
