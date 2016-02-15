@@ -16,15 +16,24 @@ Things I've Learned
 ---
 
 ### Devops
+
 ### Drupal
 - [Field Collections - Update older betas](drupal/field-collections-update-older-betas.md)
+
 ### Git
+
 ### JavaScript
+
 ### MacOS X
+
 ### Magento
+
 ### Ubuntu
+
 ### SSH
 - [How to Extract a Public Key from a Private Key](ssh/how-to-extract-public-key.md)
+
+---
 
 ## About
 
