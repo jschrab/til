@@ -27,6 +27,7 @@ Things I've Learned
 ### MacOS X
 
 ### Magento
+- [How to change a product dropdown attribute to a multiselect in Magento](magento/how-to-change-a-product-dropdown-attribute-to-a-multi-select.md)
 
 ### Ubuntu
 
