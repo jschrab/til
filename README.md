@@ -28,6 +28,7 @@ Things I've Learned
 
 ### Magento
 - [How to change a product dropdown attribute to a multiselect in Magento](magento/how-to-change-a-product-dropdown-attribute-to-a-multi-select.md)
+- [Deleting gallery images quick](magento/deleting-gallery-images-quick.md)
 
 ### Ubuntu
 
