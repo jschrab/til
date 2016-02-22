@@ -10,6 +10,7 @@ Things I've Learned
 * [JavaScript](#javascript)
 * [MacOS X](#mac)
 * [Magento](#magento)
+* [RegEx](#regex)
 * [Ubuntu](#ubuntu)
 * [SSH](#ssh)
 
@@ -32,6 +33,9 @@ Things I've Learned
 - [How to change a product dropdown attribute to a multiselect in Magento](magento/how-to-change-a-product-dropdown-attribute-to-a-multi-select.md)
 - [Deleting gallery images quick](magento/deleting-gallery-images-quick.md)
 - [How to get product categories and the parent category of a subcategory in Magento](get-product-categories-and-parents.md)
+
+### RegEx
+- [Extract a video id from a wide variety of YouTube URLs](regex/extract-a-video-id-from-a-wide-variety-of-youtube-urls.md)
 
 ### Ubuntu
 
