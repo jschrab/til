@@ -5,6 +5,7 @@
 ```
 
 ...will extra a video id (v=<videoid>) from a YouTube URL. Cases covered...
+* Protocol indifferent
 * **youtube.com** or **youtu.be** shortened
 * **embed** or **watch**
-* query string parameters beyond **v**
+* Ignore query string parameters beyond **v**
