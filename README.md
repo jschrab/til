@@ -39,6 +39,7 @@ Things I've Learned
 - [Extract a video id from a wide variety of YouTube URLs](regex/extract-a-video-id-from-a-wide-variety-of-youtube-urls.md)
 
 ### Ubuntu
+- [Screw-it - just update everything](ubuntu/screw-it-just-update-everything.md)
 
 ### SSH
 - [How to Extract a Public Key from a Private Key](ssh/how-to-extract-public-key.md)
