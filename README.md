@@ -34,6 +34,10 @@ Things I've Learned
 - [Deleting gallery images quick](magento/deleting-gallery-images-quick.md)
 - [How to get product categories and the parent category of a subcategory in Magento](get-product-categories-and-parents.md)
 - [Configuring/Altering URL Patterns](magento/configuring-url-patterns.md)
+- [Changing the Default Order of Products](magento/changing-default-product-order.md)
+
+### PHP
+- [PHP Performance Tweaks - Pt.1](php/php-performance-tweaks-pt1.md)
 
 ### RegEx
 - [Extract a video id from a wide variety of YouTube URLs](regex/extract-a-video-id-from-a-wide-variety-of-youtube-urls.md)
