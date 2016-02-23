@@ -30,11 +30,11 @@ Things I've Learned
 - [How to securely erase free space on a Mac HD/SSD (sort of...)](mac/how-to-securely-erase-freespace-on-hd.md)
 
 ### Magento
-- [How to change a product dropdown attribute to a multiselect in Magento](magento/how-to-change-a-product-dropdown-attribute-to-a-multi-select.md)
-- [Deleting gallery images quick](magento/deleting-gallery-images-quick.md)
-- [How to get product categories and the parent category of a subcategory in Magento](get-product-categories-and-parents.md)
-- [Configuring/Altering URL Patterns](magento/configuring-url-patterns.md)
 - [Changing the Default Order of Products](magento/changing-default-product-order.md)
+- [Configuring/Altering URL Patterns](magento/configuring-url-patterns.md)
+- [Deleting gallery images quick](magento/deleting-gallery-images-quick.md)
+- [How to change a product dropdown attribute to a multiselect in Magento](magento/how-to-change-a-product-dropdown-attribute-to-a-multi-select.md)
+- [How to get product categories and the parent category of a subcategory in Magento](get-product-categories-and-parents.md)
 
 ### PHP
 - [PHP Performance Tweaks - Pt.1](php/php-performance-tweaks-pt1.md)
