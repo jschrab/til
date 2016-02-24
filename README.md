@@ -10,6 +10,8 @@ Things I've Learned
 * [JavaScript](#javascript)
 * [MacOS X](#mac)
 * [Magento](#magento)
+* [PHP](#php)
+* [PostgreSQL](#pgsql)
 * [RegEx](#regex)
 * [Ubuntu](#ubuntu)
 * [SSH](#ssh)
@@ -38,6 +40,9 @@ Things I've Learned
 
 ### PHP
 - [PHP Performance Tweaks - Pt.1](php/php-performance-tweaks-pt1.md)
+
+### PostgreSQL
+- [A Crash Course in PostgreSQL](pgsql/a-crash-course-in-postgresql.md)
 
 ### RegEx
 - [Extract a video id from a wide variety of YouTube URLs](regex/extract-a-video-id-from-a-wide-variety-of-youtube-urls.md)
