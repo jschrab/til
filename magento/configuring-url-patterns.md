@@ -1,4 +1,4 @@
-### Configuring/Altering URL Patterns
+# Configuring/Altering URL Patterns
 
 To remove .html from product and category URL's...
 

@@ -36,7 +36,9 @@ Things I've Learned
 - [Configuring/Altering URL Patterns](magento/configuring-url-patterns.md)
 - [Deleting gallery images quick](magento/deleting-gallery-images-quick.md)
 - [How to change a product dropdown attribute to a multiselect in Magento](magento/how-to-change-a-product-dropdown-attribute-to-a-multi-select.md)
-- [How to get product categories and the parent category of a subcategory in Magento](get-product-categories-and-parents.md)
+- [How to get product categories and the parent category of a subcategory in Magento](magento/get-product-categories-and-parents.md)
+- [Managing URL Rewrites In Magento](magento/managing-url-rewrites.md)
+- [Finding Current Skin Path in Magento](magento/finding-skin-paths.md)
 
 ### PHP
 - [PHP Performance Tweaks - Pt.1](php/php-performance-tweaks-pt1.md)

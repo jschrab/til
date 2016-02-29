@@ -1,4 +1,4 @@
-### Changing the Default Order of Products
+# Changing the Default Order of Products
 
 While it's possible to change the default _field_ on which products are sorted, it is not possible 1) to define anything other than ASC order and 2) one cannot have a multi-key sort. To actually do this requires some code.
 
