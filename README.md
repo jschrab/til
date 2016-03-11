@@ -30,6 +30,7 @@ Things I've Learned
 ### MacOS X
 - [How to securely delete a file on MacOS X (sort of...)](mac/how-to-secure-delete-a-file.md)
 - [How to securely erase free space on a Mac HD/SSD (sort of...)](mac/how-to-securely-erase-freespace-on-hd.md)
+- [Delete Time Machine backup via command line](mac/delete-time-machine-backup-via-command-line.md)
 
 ### Magento
 - [Changing the Default Order of Products](magento/changing-default-product-order.md)
