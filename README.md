@@ -22,6 +22,7 @@ Things I've Learned
 
 ### Drupal
 - [Field Collections - Update older betas](drupal/field-collections-update-older-betas.md)
+- [Fix File Content Permissions](drupal/fix-file-content-permissions.md)
 
 ### Git
 
