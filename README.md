@@ -41,6 +41,7 @@ Things I've Learned
 - [How to get product categories and the parent category of a subcategory in Magento](magento/get-product-categories-and-parents.md)
 - [Managing URL Rewrites In Magento](magento/managing-url-rewrites.md)
 - [Finding Current Skin Path in Magento](magento/finding-skin-paths.md)
+- [Change the baseurl Directly in the MySQL Database](magento/change-baseurl-mysql.md)
 
 ### PHP
 - [PHP Performance Tweaks - Pt.1](php/php-performance-tweaks-pt1.md)
