@@ -48,6 +48,7 @@ Things I've Learned
 
 ### PostgreSQL
 - [A Crash Course in PostgreSQL](pgsql/a-crash-course-in-postgresql.md)
+- [Basic user privilege adding](pgsql/basic-user-privilege-adding.md)
 
 ### RegEx
 - [Extract a video id from a wide variety of YouTube URLs](regex/extract-a-video-id-from-a-wide-variety-of-youtube-urls.md)
