@@ -18,6 +18,9 @@ Things I've Learned
 
 ---
 
+### Common Knowledge
+- [US States Copy List](common-knowledge/us-states.md)
+
 ### Devops
 
 ### Drupal
