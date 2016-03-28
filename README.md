@@ -4,6 +4,7 @@ Things I've Learned
 
 ### Categories
 
+# [Common_Knowledge](#common_knowledge)
 * [Devops](#devops)
 * [Drupal](#drupal)
 * [Git](#git)
@@ -18,7 +19,7 @@ Things I've Learned
 
 ---
 
-### Common Knowledge
+### Common_Knowledge
 - [US States Copy List](common-knowledge/us-states.md)
 
 ### Devops
@@ -31,7 +32,7 @@ Things I've Learned
 
 ### JavaScript
 
-### MacOS X
+### MacOS_X
 - [How to securely delete a file on MacOS X (sort of...)](mac/how-to-secure-delete-a-file.md)
 - [How to securely erase free space on a Mac HD/SSD (sort of...)](mac/how-to-securely-erase-freespace-on-hd.md)
 - [Delete Time Machine backup via command line](mac/delete-time-machine-backup-via-command-line.md)
