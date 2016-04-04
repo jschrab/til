@@ -4,7 +4,7 @@ Things I've Learned
 
 ### Categories
 
-# [Common_Knowledge](#common_knowledge)
+* [Common_Knowledge](#common_knowledge)
 * [Devops](#devops)
 * [Drupal](#drupal)
 * [Git](#git)
@@ -38,14 +38,17 @@ Things I've Learned
 - [Delete Time Machine backup via command line](mac/delete-time-machine-backup-via-command-line.md)
 
 ### Magento
+- [Careful About /var/cache](magento/careful-about-var-cache.md)
+- [Change the baseurl Directly in the MySQL Database](magento/change-baseurl-mysql.md)
 - [Changing the Default Order of Products](magento/changing-default-product-order.md)
 - [Configuring/Altering URL Patterns](magento/configuring-url-patterns.md)
 - [Deleting gallery images quick](magento/deleting-gallery-images-quick.md)
+- [Finding Current Skin Path in Magento](magento/finding-skin-paths.md)
 - [How to change a product dropdown attribute to a multiselect in Magento](magento/how-to-change-a-product-dropdown-attribute-to-a-multi-select.md)
 - [How to get product categories and the parent category of a subcategory in Magento](magento/get-product-categories-and-parents.md)
+- [Magento 1.9 on PHP7](magento/magento-1-9-on-php-7.md)
 - [Managing URL Rewrites In Magento](magento/managing-url-rewrites.md)
-- [Finding Current Skin Path in Magento](magento/finding-skin-paths.md)
-- [Change the baseurl Directly in the MySQL Database](magento/change-baseurl-mysql.md)
+
 
 ### PHP
 - [PHP Performance Tweaks - Pt.1](php/php-performance-tweaks-pt1.md)
