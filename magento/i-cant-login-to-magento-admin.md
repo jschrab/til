@@ -10,3 +10,5 @@ There are a host of reasons for this but the one that perplexed me for hours dea
 Summary: **Make cookie domains _completely_ different or _perfectly_ the same.**
 
 Source: https://blog.philwinkle.com/i-cant-login-to-magento-admin/
+
+If this _isn't_ your problem, maybe the answer is here: http://magento.stackexchange.com/a/26083/33450
