@@ -46,9 +46,9 @@ Things I've Learned
 - [Finding Current Skin Path in Magento](magento/finding-skin-paths.md)
 - [How to change a product dropdown attribute to a multiselect in Magento](magento/how-to-change-a-product-dropdown-attribute-to-a-multi-select.md)
 - [How to get product categories and the parent category of a subcategory in Magento](magento/get-product-categories-and-parents.md)
+- [I can't login to Magento admin!](magento/i-cant-login-to-magento-admin.md)
 - [Magento 1.9 on PHP7](magento/magento-1-9-on-php-7.md)
 - [Managing URL Rewrites In Magento](magento/managing-url-rewrites.md)
-
 
 ### PHP
 - [PHP Performance Tweaks - Pt.1](php/php-performance-tweaks-pt1.md)
