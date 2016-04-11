@@ -42,6 +42,7 @@ Things I've Learned
 - [Change the baseurl Directly in the MySQL Database](magento/change-baseurl-mysql.md)
 - [Changing the Default Order of Products](magento/changing-default-product-order.md)
 - [Configuring/Altering URL Patterns](magento/configuring-url-patterns.md)
+- [Delete test orders](magento/delete-test-orders.md)
 - [Deleting gallery images quick](magento/deleting-gallery-images-quick.md)
 - [Finding Current Skin Path in Magento](magento/finding-skin-paths.md)
 - [How to change a product dropdown attribute to a multiselect in Magento](magento/how-to-change-a-product-dropdown-attribute-to-a-multi-select.md)
