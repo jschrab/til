@@ -12,6 +12,7 @@ Things I've Learned
 * [JavaScript](#javascript)
 * [MacOS_X](#macos_x)
 * [Magento](#magento)
+* [MySQL](#mysql)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [RegEx](#regex)
@@ -47,6 +48,7 @@ Things I've Learned
 - [Change the baseurl Directly in the MySQL Database](magento/change-baseurl-mysql.md)
 - [Changing the Default Order of Products](magento/changing-default-product-order.md)
 - [Configuring/Altering URL Patterns](magento/configuring-url-patterns.md)
+- [Delete test orders](magento/delete-test-orders.md)
 - [Deleting gallery images quick](magento/deleting-gallery-images-quick.md)
 - [Finding Current Skin Path in Magento](magento/finding-skin-paths.md)
 - [How to change a product dropdown attribute to a multiselect in Magento](magento/how-to-change-a-product-dropdown-attribute-to-a-multi-select.md)
@@ -54,6 +56,9 @@ Things I've Learned
 - [I can't login to Magento admin!](magento/i-cant-login-to-magento-admin.md)
 - [Magento 1.9 on PHP7](magento/magento-1-9-on-php-7.md)
 - [Managing URL Rewrites In Magento](magento/managing-url-rewrites.md)
+
+### MySQL
+- [Optimize Tables By Command Line](mysql/optimize-tables-by-command-line.md)
 
 ### PHP
 - [PHP Performance Tweaks - Pt.1](php/php-performance-tweaks-pt1.md)
