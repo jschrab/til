@@ -22,6 +22,7 @@ Things I've Learned
 
 ### Common_Knowledge
 - [US States Copy List](common-knowledge/us-states.md)
+- [Quotes](common-knowledge/quotes)
 
 ### Devops
 
