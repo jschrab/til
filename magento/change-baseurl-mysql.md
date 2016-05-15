@@ -21,4 +21,22 @@ UPDATE core_config_data SET value='http://<newdomain>/<newbasepath>/' WHERE PATH
 UPDATE core_config_data SET value='https://<newdomain>/<newbasepath>/' WHERE PATH = 'web/secure/base_url';
 ```
 
+Of related use, "Use Secure in Frontend/Admin" is in the same table:
+```sql
+mysql> SELECT * FROM core_config_data WHERE path LIKE '%secure/use%';
++-----------+---------+----------+-----------------------------+-------+
+| config_id | scope   | scope_id | path                        | value |
++-----------+---------+----------+-----------------------------+-------+
+|        48 | default |        0 | web/secure/use_in_frontend  | 1     |
+|        49 | default |        0 | web/secure/use_in_adminhtml | 1     |
++-----------+---------+----------+-----------------------------+-------+
+```
+
+Which could be turned off...
+
+```sql
+UPDATE core_config_data SET value='0' WHERE PATH = 'web/secure/use_in_frontend';
+UPDATE core_config_data SET value='0' WHERE PATH = 'web/secure/use_in_adminhtml';
+```
+
 fin

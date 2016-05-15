@@ -56,9 +56,10 @@ Things I've Learned
 - [I can't login to Magento admin!](magento/i-cant-login-to-magento-admin.md)
 - [Magento 1.9 on PHP7](magento/magento-1-9-on-php-7.md)
 - [Managing URL Rewrites In Magento](magento/managing-url-rewrites.md)
-
+- [Set First Gallery Image to Base Image (and more...)](magento/set-first-gallery-image-to-base-and-more.md)
 ### MySQL
 - [Optimize Tables By Command Line](mysql/optimize-tables-by-command-line.md)
+- [Backup Large Databases](mysql/backup-large-databases.md)
 
 ### PHP
 - [PHP Performance Tweaks - Pt.1](php/php-performance-tweaks-pt1.md)
