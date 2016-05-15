@@ -1,12 +1,10 @@
 # Quotes
 ### Wit
-```
-Isn't air travel wonderful?  Breakfast in London, dinner in New York, luggage in Brazil.
-```
-```
-“These engines are the fastest in any tanks in the European Theater of Operations, forwards or backwards. You see, man, we like to feel we can get out of trouble, quicker than we got into it.”
+> Isn't air travel wonderful?  Breakfast in London, dinner in New York, luggage in Brazil.
+
+> “These engines are the fastest in any tanks in the European Theater of Operations, forwards or backwards. You see, man, we like to feel we can get out of trouble, quicker than we got into it.”
 - Oddball as played by Donald Sutherland﻿, Kelly's Heroes
-```
+
 ### Wisdom
 ```
 “All truly great thoughts are conceived while walking.”
@@ -28,7 +26,7 @@ Isn't air travel wonderful?  Breakfast in London, dinner in New York, luggage in
 “Frequently in life, work and relationships, the side-effects of working to achieve a goal are the real goal.”
 - J. Schrab
 ```
-### Inspriration
+### Inspiration
 
 ```
 Everybody needs love and adventure,
