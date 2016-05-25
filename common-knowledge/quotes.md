@@ -35,7 +35,7 @@ foolish thoughts.”
 achieve a goal are the real goal.”
 - J. Schrab
 ```
-### Inspriration
+### Inspiration
 
 ```
 Everybody needs love and adventure,
