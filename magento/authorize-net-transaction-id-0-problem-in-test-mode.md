@@ -17,3 +17,4 @@ public function checkTransId()
 ... will allow for Transaction ID's of 0 (zero) to work in test mode. It would be best if this was a method override instead of core hack.
 
 Source: http://www.pixeldistribution.co.uk/blog/ecommerce/integration-of-magento-with-authorize-net
+More details: https://community.developer.authorize.net/t5/Integration-and-Testing/Transactions-are-not-showing-on-test-account/td-p/10122
