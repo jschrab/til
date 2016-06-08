@@ -10,6 +10,11 @@ Operations, forwards or backwards. You see, man, we like to feel we can get out
 of trouble, quicker than we got into it.”
 - Oddball as played by Donald Sutherland﻿, Kelly's Heroes
 ```
+```
+“We have normality. I repeat, we have normality. Anything you still can't cope
+with is therefore your own problem.”
+- Trillian, The Hitchhikers Guide to the Galaxy, Douglas Adams
+```
 ### Wisdom
 ```
 “All truly great thoughts are conceived while walking.”
@@ -29,6 +34,11 @@ relations, for Nature cannot be fooled."
 are foolish, but the slovenliness of our language makes it easier for us to have
 foolish thoughts.”
 - George Orwell Politics and the English Language
+```
+```
+“We often discover what will do, by finding out what will not do; and probably
+he who never made a mistake never made a discovery.”
+- Samuel Smiles
 ```
 ```
 “Frequently in life, work and relationships, the side-effects of working to
