@@ -18,7 +18,7 @@ Things I've Learned
 * [PostgreSQL](#postgresql)
 * [RegEx](#regex)
 * [Ubuntu](#ubuntu)
-* [SSH](#ssh)
+* [SSH_SSL](#ssh_ssl)
 
 ---
 
@@ -61,7 +61,7 @@ Things I've Learned
 - [Magento 1.9 on PHP7](magento/magento-1-9-on-php-7.md)
 - [Managing URL Rewrites In Magento](magento/managing-url-rewrites.md)
 - [Set First Gallery Image to Base Image (and more...)](magento/set-first-gallery-image-to-base-and-more.md)
-
+- [How to Clear "Bestsellers" Reporting](magento/clear-reporting-data.md)
 
 ### MySQL
 - [Optimize Tables By Command Line](mysql/optimize-tables-by-command-line.md)
@@ -84,8 +84,9 @@ Things I've Learned
 - [Screw-it - just update everything](ubuntu/screw-it-just-update-everything.md)
 - [Truncate a File While Maintaining Permissions](ubuntu/truncate-file.md)
 
-### SSH
-- [How to Extract a Public Key from a Private Key](ssh/how-to-extract-public-key.md)
+### SSH_SSL
+- [How to Extract a Public Key from a Private Key](ssh-ssl/how-to-extract-public-key.md)
+- [How to Extract Organizational Details from a CSR](ssh-ssl/how-to-extract-organizational-details-from-a-csr.md)
 
 ---
 

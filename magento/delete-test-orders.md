@@ -16,7 +16,7 @@ foreach($test_order_ids as $id) {
         Mage::getModel('sales/order')->loadByIncrementId($id)->delete();
         echo "order #".$id." is removed".PHP_EOL;
     } catch (Exception $e) {
-        echo "order #".$id." could not be remvoved: ".$e->getMessage().PHP_EOL;
+        echo "order #".$id." could not be removed: ".$e->getMessage().PHP_EOL;
     }
 }
 echo "complete.";
