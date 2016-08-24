@@ -83,6 +83,7 @@ Things I've Learned
 ### Ubuntu
 - [Screw-it - just update everything](ubuntu/screw-it-just-update-everything.md)
 - [Truncate a File While Maintaining Permissions](ubuntu/truncate-file.md)
+- [Updates Held Back - How and Why?](ubuntu/updates-held-back.md)
 
 ### SSH_SSL
 - [How to Extract a Public Key from a Private Key](ssh-ssl/how-to-extract-public-key.md)
