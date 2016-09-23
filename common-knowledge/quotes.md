@@ -40,11 +40,6 @@ foolish thoughts.”
 he who never made a mistake never made a discovery.”
 - Samuel Smiles
 ```
-```
-“Frequently in life, work and relationships, the side-effects of working to
-achieve a goal are the real goal.”
-- J. Schrab
-```
 ### Inspiration
 
 ```
@@ -59,11 +54,4 @@ Everybody needs two or three friends
 “I've lived through some terrible things in my life, some of which actually
 happened.”
 ― Mark Twain
-```
-### Business
-```
-“The best salespeople have realized that they need to be teachers. Complex
-products and services require understanding to fully realize their benefits. If
-you don’t understand your product, you can’t sell it.”
-- J. Schrab
 ```
