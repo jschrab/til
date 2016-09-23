@@ -30,12 +30,6 @@ relations, for Nature cannot be fooled."
 - Richard Feynman
 ```
 ```
-“The English language ... It becomes ugly and inaccurate because our thoughts
-are foolish, but the slovenliness of our language makes it easier for us to have
-foolish thoughts.”
-- George Orwell Politics and the English Language
-```
-```
 “We often discover what will do, by finding out what will not do; and probably
 he who never made a mistake never made a discovery.”
 - Samuel Smiles
