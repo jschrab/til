@@ -49,3 +49,11 @@ Everybody needs two or three friends
 happened.”
 ― Mark Twain
 ```
+### Just Makes Me Smile
+```
+You don't tug on superman's cape
+You don't spit into the wind
+You don't pull the mask off that old lone ranger
+And you don't mess around with Jim
+- Jim Croce
+```
