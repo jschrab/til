@@ -1,6 +1,6 @@
 # How to raise the ulimit _or_ How to solve the "Too many open files in system" problem
 
-Summary: MacOS has paltry files-open limits for developers, who have high resources needs. It needs to be raised but El Capitan locks this sort of thing down requiring more work to change the limits.
+Summary: MacOS has paltry files-open limits for developers, who have high resource needs. It needs to be raised but El Capitan locks this sort of thing down requiring more work to change the limits.
 
 1. Create two files, owned by root:wheel
 
