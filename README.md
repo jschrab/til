@@ -41,9 +41,10 @@ Things I've Learned
 ### JavaScript
 
 ### MacOS_X
+- [Delete Time Machine backup via command line](mac/delete-time-machine-backup-via-command-line.md)
+- [How to raise the ulimit or How to solve the "Too many open files in system" problem](mac/raise-ulimit.md)
 - [How to securely delete a file on MacOS X (sort of...)](mac/how-to-secure-delete-a-file.md)
 - [How to securely erase free space on a Mac HD/SSD (sort of...)](mac/how-to-securely-erase-freespace-on-hd.md)
-- [Delete Time Machine backup via command line](mac/delete-time-machine-backup-via-command-line.md)
 
 ### Magento
 - [Careful About /var/cache](magento/careful-about-var-cache.md)
