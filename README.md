@@ -10,6 +10,7 @@ Things I've Learned
 * [FFMPEG](#ffmpeg)
 * [Git](#git)
 * [JavaScript](#javascript)
+* [Kentico](#kentico)
 * [MacOS_X](#macos_x)
 * [Magento](#magento)
 * [MySQL](#mysql)
@@ -32,6 +33,7 @@ Things I've Learned
 ### Drupal
 - [Field Collections - Update older betas](drupal/field-collections-update-older-betas.md)
 - [Fix File Content Permissions](drupal/fix-file-content-permissions.md)
+- [Notes on REST calls in Drupal 8](drupal/notes-on-rest-calls-in-d8.md)
 
 ### Git
 
@@ -39,6 +41,10 @@ Things I've Learned
 - [FFMPEG Crash Course](ffmpeg/ffmpeg-crash-course.md)
 
 ### JavaScript
+
+### Kentico
+- [Custom Transformations](kentico/custom-transformations.md)
+- [Filter on Category](kentico/filter-on-category.md)
 
 ### MacOS_X
 - [Delete Time Machine backup via command line](mac/delete-time-machine-backup-via-command-line.md)
