@@ -34,6 +34,11 @@ relations, for Nature cannot be fooled."
 he who never made a mistake never made a discovery.”
 - Samuel Smiles
 ```
+```
+"If you give me six lines written by the hand of the most honest of men,
+I will find something in them which will hang him."
+- Cardinal Richelieu
+```
 ### Inspiration
 
 ```
