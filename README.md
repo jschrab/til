@@ -61,14 +61,15 @@ Things I've Learned
 - [Deleting gallery images quick](magento/deleting-gallery-images-quick.md)
 - [Finding Current Skin Path in Magento](magento/finding-skin-paths.md)
 - [How to change a product dropdown attribute to a multiselect in Magento](magento/how-to-change-a-product-dropdown-attribute-to-a-multi-select.md)
+- [How to Clear "Bestsellers" Reporting](magento/clear-reporting-data.md)
 - [How to get product categories and the parent category of a subcategory in Magento](magento/get-product-categories-and-parents.md)
 - [I can't login to Magento admin!](magento/i-cant-login-to-magento-admin.md)
 - [Magento / Authorize.net "Transaction ID 0" problem in test mode](magento/authorize-net-transaction-id-0-problem-in-test-mode.md)
 - [Magento / UPS API Integration setup](magento/ups-api-integration-setup.md)
 - [Magento 1.9 on PHP7](magento/magento-1-9-on-php-7.md)
 - [Managing URL Rewrites In Magento](magento/managing-url-rewrites.md)
+- [Pulling Sales Info from Database in SQL](magento/pulling-sales-from-database-in-sql.md)
 - [Set First Gallery Image to Base Image (and more...)](magento/set-first-gallery-image-to-base-and-more.md)
-- [How to Clear "Bestsellers" Reporting](magento/clear-reporting-data.md)
 
 ### MySQL
 - [Optimize Tables By Command Line](mysql/optimize-tables-by-command-line.md)
