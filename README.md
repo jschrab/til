@@ -37,6 +37,7 @@ Things I've Learned
 
 ### Git
 - [Bigger postBuffer](git/bigger-postBuffer.md)
+
 ### FFMPEG
 - [FFMPEG Crash Course](ffmpeg/ffmpeg-crash-course.md)
 
