@@ -72,6 +72,7 @@ Things I've Learned
 - [Magento 1.9 on PHP7](magento/magento-1-9-on-php-7.md)
 - [Managing URL Rewrites In Magento](magento/managing-url-rewrites.md)
 - [Pulling Sales Info from Database in SQL](magento/pulling-sales-from-database-in-sql.md)
+- [Reloading a collection is sometimes necessary](magento/reload-collection-is-sometimes-necessary.md)
 - [Set First Gallery Image to Base Image (and more...)](magento/set-first-gallery-image-to-base-and-more.md)
 
 ### MySQL
