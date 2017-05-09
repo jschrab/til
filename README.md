@@ -4,8 +4,8 @@ Things I've Learned
 
 ### Categories
 
+* [Bash](#bash)
 * [Common_Knowledge](#common_knowledge)
-* [Devops](#devops)
 * [Drupal](#drupal)
 * [FFMPEG](#ffmpeg)
 * [Git](#git)
@@ -24,12 +24,13 @@ Things I've Learned
 
 ---
 
+### Bash
+- [Apache Log Processing - Top IP Addresses](bash/apache-log-processing-top-ip-addresses.md)
+
 ### Common_Knowledge
 - [Military Addresses](common-knowledge/military-addresses.md)
 - [Quotes](common-knowledge/quotes.md)
 - [US States Copy List](common-knowledge/us-states.md)
-
-### Devops
 
 ### Drupal
 - [Field Collections - Update older betas](drupal/field-collections-update-older-betas.md)
