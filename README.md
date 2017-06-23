@@ -44,6 +44,7 @@ Things I've Learned
 - [Bigger postBuffer](git/bigger-postBuffer.md)
 
 ### IIS
+- [Increase File Upload Limit](iis/increase-file-upload-limit.md)
 - [Setup SSL Key for IIS](iis/setup-ssl-key-for-iis.md)
 
 ### JavaScript
@@ -67,6 +68,7 @@ Things I've Learned
 - [Deleting gallery images quick](magento/deleting-gallery-images-quick.md)
 - [Finding Current Skin Path in Magento](magento/finding-skin-paths.md)
 - [Get FrontEnd for Emails](magento/get-frontend-for-emails.md)
+- [Hide Pages From Navigation](magento/hide-pages-from-navigation.md)
 - [How to change a product dropdown attribute to a multi-select in Magento](magento/how-to-change-a-product-dropdown-attribute-to-a-multi-select.md)
 - [How to Clear "Bestsellers" Reporting](magento/clear-reporting-data.md)
 - [How to get product categories and the parent category of a subcategory in Magento](magento/get-product-categories-and-parents.md)
@@ -76,6 +78,7 @@ Things I've Learned
 - [Magento / UPS API Integration setup](magento/ups-api-integration-setup.md)
 - [Magento 1.9 on PHP7](magento/magento-1-9-on-php-7.md)
 - [Managing URL Rewrites In Magento](magento/managing-url-rewrites.md)
+- [Order Content By Tree View](magento/order-content-by-tree-order.md)
 - [Pulling Sales Info from Database in SQL](magento/pulling-sales-from-database-in-sql.md)
 - [Reloading a collection is sometimes necessary](magento/reload-collection-is-sometimes-necessary.md)
 - [Set First Gallery Image to Base Image (and more...)](magento/set-first-gallery-image-to-base-and-more.md)
