@@ -48,6 +48,7 @@ Things I've Learned
 - [Setup SSL Key for IIS](iis/setup-ssl-key-for-iis.md)
 
 ### JavaScript
+- [Return an array of unique values](javascript/return-an-array-of-unique-values.md)
 
 ### Kentico
 - [Custom Transformations](kentico/custom-transformations.md)
