@@ -61,6 +61,7 @@ Things I've Learned
 - [How to raise the ulimit or How to solve the "Too many open files in system" problem](mac/raise-ulimit.md)
 - [How to securely delete a file on MacOS X (sort of...)](mac/how-to-secure-delete-a-file.md)
 - [How to securely erase free space on a Mac HD/SSD (sort of...)](mac/how-to-securely-erase-freespace-on-hd.md)
+- [Disable Software Update Notification 'Red dot' on Dock](mac/disable-software-update-notification-reddot-on-dock.md)
 
 ### Magento
 - [Careful About /var/cache](magento/careful-about-var-cache.md)
